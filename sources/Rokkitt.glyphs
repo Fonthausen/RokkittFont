@@ -1,10 +1,5 @@
 {
-.appVersion = "1075";
-DisplayStrings = (
-"ONONON  OHOHOH  OOOOHHHH EOEOEOE NENMINIMUN  EHENEHE  NHNHNH  NNNHHH\012OOAOO\U00C6OOBOOCOODOO/Dz OOEOOFOOGOOHOOIOOJOOKOOLOO/LJ OO/Lj OOMOONOOOO/OE OOPOOQOOROOSOOTOOUOOVOOWOOXOOYOOZOO/Germandbls OO\U00DEOO/Schwa OO/Delta OO/Sigma OO/Omega OOOO/dagger OO/daggerdbl OOOO@OO&OO\U00B6OO\U00A7OO\U00A9OO\U00AEOO/trademark OO^OOOO*OO//OO\U00B7OO/bullet OO:OO,OO/ellipsis OOOO!OO\U00A1OO#OO.OO?OO\U00BFOO\"OO'OO,OO;OO/backslash OO_OO{OO}OO[OO]OO(OO)OO|OO\U00A6OO/emdash OO/endash OO/figuredash OO/horizontalbar OO-OO/hyphentwo OO\U00ADOO\U00ABOO\U00BBOO/guilsinglleft OO/guilsinglright OO/quotedblbase OO/quotedblleft OO/quotedblright OO,OO/quoteleft OO/quoteright OO/quotesinglbase OO\012OO/zero.osf OO/one.osf OO/two.osf OO/three.osf OO/four.osf OO/five.osf OO/six.osf OO/seven.osf OO/eight.osf OO/nine.osf OO\012\012HHAHH\U00C6HHBHHCHHDHH/Dz HHEHHFHHGHHHIHHJHHKHHLHH/LJ HH/Lj HHMHHNHHOHHO/OE HHPHHQHHRHHSHHTHHUHHVHHWHHXHHYHHZHH/Germandbls HH\U00DEHH/Schwa HH/Delta HH/Sigma HH/Omega HHHH/dagger HH/daggerdbl HHHH@HH&HH\U00B6HH\U00A7HH\U00A9HH\U00AEHH/trademark HH^HHHH*HH/backslash HH\U00B7HH/bullet HH:HH,HH/ellipsis HHHH!HH\U00A1HH#HH.HH?HH\U00BFHH\"HH'HH;HH/backslash HH//HH_HH{HH}HH[HH]HH(HH)HH|HH\U00A6HH/emdash HH/endash HH/figuredash HH/horizontalbar HH-HH/hyphentwo HH\U00ADHH\U00ABHH\U00BBHH/guilsinglleft HH/guilsinglright HH/quotedblbase HH/quotedblleft HH/quotedblright HH/quoteleft HH/quoteright HH/quotesinglbase HH\012HH/zero.osf HH/one.osf HH/two.osf HH/three.osf HH/four.osf HH/five.osf HH/six.osf HH/seven.osf HH/eight.osf HH/nine.osf HH\012\012\012",
-"ooooeeee oeoeoeoe\012nononono oiomomminim\012\012eff/f_f ects o/f_f_i cers ososososo o/fl lb/fl/f_f_l floading alo/f_t   re/fi ned a/fl oa/t_i ng olo oitio ofoffofo\012fi/fi nger /fl ings\012\012oao\U00E6obolocodo/dcaron o/dz oeo/schwa ofogohoio/ij ojoko/kgreenlandic olo/ldot o/lj omono/nj ooo/oe opo\U00FEoqorosoto/tcaron ouovowoxoyozo\U00DFo\U00F0o/mu o/pi o\012o/zero.osf o/one.osf o/two.osf o/three.osf o/four.osf o/five.osf o/six.osf o/seven.osf o\01280/eight.osf o/nine.osf o\012\012o/dagger o/daggerdbl o/paragraph.alt1 o@o&o\U00B6o\U00A7o\U00A9o\U00AEo/trademark o^o`o o/periodcentered.alt1 o*o/backslash o\U00B7o/bullet o:o,o/ellipsis o!o\U00A1o#o.o?o\U00BFo\"o'o;o//o_o{o}o[o]o(o)o|o\U00A6o\012o/emdash o/endash o/figuredash o/horizontalbar o-o/hyphentwo o\U00ADo\U00ABo\U00BBo/guilsinglleft o/guilsinglright o/quotedblbase o/quotedblleft o/quotedblright o/quoteleft o/quoteright o/quotesinglbase o/foundryicon o\012\012nan\U00E6nbncndn/dcaron n/dz nen/schwa nfn/f_f n/f_f_i n/f_f_l n/f_t n/fi n/fl ngnhnin/iacute_j.loclNLD n/ij njnkn/kgreenlandic nln/lcaron n/ldot n/lj nmnnn/napostrophe n/nj non/oe npn\U00FEnqnrnsntn/tcaron n/t_i nunvnwnxnynzn\U00DFn\U00F0n/mu n/pi n/zero.osf n/one.osf n/two.osf n/three.osf n/four.osf n/five.osf n/six.osf n/seven.osf n/eight.osf n/nine.osf n\012\012n/dagger n/daggerdbl n/paragraph.alt1 n@n&n\U00B6n\U00A7n\U00A9n\U00AEn/trademark n\012n^n/periodcentered.alt1 n*n/backslash n\U00B7n/bullet n:n,n/ellipsis n!n\U00A1n#n.n?n\U00BFn\"n'n;n//n_n{n}n[n]n(n)n|n\U00A6n\012n/emdash n/endash n/figuredash n/horizontalbar n-n/hyphentwo n\U00ADn\U00ABn\U00BBn/guilsinglleft n/guilsinglright n/quotedblbase n/quotedblleft n/quotedblright n/quoteleft n/quoteright n/quotesinglbase n/foundryicon n\012",
-"000102030405060708090\01210111213141516171819\01220123242526272829202\01230313233343536373839\012404142434445464748495051525354555657585960616263646566768696\0127071727374757677879\0128081828384858687889\012909192939495969798999\012\0120\U00BD0\U00BC0\U00BE0/oneeighth 0/threeeighths 0/fiveeighths 0/seveneighths 0\0120\U00AA0\U00BA0\U00AA0\U00BA0\U00AA0\U00BA0/zerosuperior 0\U00B90\U00B20\U00B30/foursuperior 0/fivesuperior 0/sixsuperior 0/sevensuperior 0/eightsuperior 0/ninesuperior 0\0120/guarani.alt1 0/cedi 0\U00A20/colonsign 0\U00A40$0/dong 0/euro 0/florin 0/franc 0/guarani 0/kip 0/lira 0/liraTurkish 0/manat 0/naira 0/peseta 0/peso 0/ruble 0/rupeeIndian 0\U00A30/won 0\U00A50\0120/minute 0/second 0/bulletoperator 0/divisionslash 0+0/minus 0\U00D70\U00F70=0/notequal 0>0<0/greaterequal 0/lessequal 0\U00B10/approxequal 0~0\U00AC0/emptyset 0/infinity 0/integral 0/Ohm 0/increment 0/product 0/summation 0/radical 0\U00B50/partialdiff 0%0/perthousand 0/lozenge 0\U00B00/literSign 0/estimated 0/numero 0\012\0121\U00BD1\U00BC1\U00BE1/oneeighth 1/threeeighths 1/fiveeighths 1/seveneighths 1\0121\U00AA1\U00BA1\U00AA1\U00BA1\U00AA1\U00BA1/zerosuperior 1\U00B91\U00B21\U00B31/foursuperior 1/fivesuperior 1/sixsuperior 1/sevensuperior 1/eightsuperior 1/ninesuperior 1\0121/guarani.alt1 1/cedi 1\U00A21/colonsign 1\U00A41$1/dong 1/euro 1/florin 1/franc 1/guarani 1/kip 1/lira 1/liraTurkish 1/manat 1/naira 1/peseta 1/peso 1/ruble 1/rupeeIndian 1\U00A31/won 1\U00A51\0121/minute 1/second 1/bulletoperator 1/divisionslash 1+1/minus 1\U00D71\U00F71=1/notequal 1>1<1/greaterequal 1/lessequal 1\U00B11/approxequal 1~1\U00AC1/emptyset 1/infinity 1/integral 1/Ohm 1/increment 1/product 1/summation 1/radical 1\U00B51/partialdiff 1%1/perthousand 1/lozenge 1\U00B01/literSign 1/estimated 1/numero 1"
-);
+.appVersion = "1116";
 copyright = "Copyright 2016 The Rokkit Project Authors (contact@sansoxygen.com)";
 customParameters = (
 {
@@ -1008,6 +1003,8 @@ nodes = (
 width = 750;
 }
 );
+leftKerningGroup = A_Right;
+rightKerningGroup = A_Left;
 unicode = 0041;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -1124,6 +1121,8 @@ name = "Light Aug 18 16, 17:57";
 width = 675;
 }
 );
+leftKerningGroup = A_Right;
+rightKerningGroup = A_Left;
 unicode = 00C1;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -1240,6 +1239,8 @@ name = "Light Aug 18 16, 17:57";
 width = 675;
 }
 );
+leftKerningGroup = A_Right;
+rightKerningGroup = A_Left;
 unicode = 0102;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -1687,6 +1688,8 @@ name = "Light Aug 18 16, 17:57";
 width = 675;
 }
 );
+leftKerningGroup = A_Right;
+rightKerningGroup = A_Left;
 unicode = 00C2;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -2156,6 +2159,8 @@ name = "Light Aug 18 16, 17:57";
 width = 675;
 }
 );
+leftKerningGroup = A_Right;
+rightKerningGroup = A_Left;
 unicode = 00C4;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -2468,6 +2473,8 @@ name = "Light Aug 18 16, 17:57";
 width = 675;
 }
 );
+leftKerningGroup = A_Right;
+rightKerningGroup = A_Left;
 unicode = 00C0;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -2745,6 +2752,8 @@ name = "Light Aug 18 16, 17:57";
 width = 675;
 }
 );
+leftKerningGroup = A_Right;
+rightKerningGroup = A_Left;
 unicode = 0100;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -2861,6 +2870,8 @@ name = "Light Aug 18 16, 17:57";
 width = 675;
 }
 );
+leftKerningGroup = A_Right;
+rightKerningGroup = A_Left;
 unicode = 0104;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -2977,6 +2988,8 @@ name = "Light Aug 18 16, 17:57";
 width = 675;
 }
 );
+leftKerningGroup = A_Right;
+rightKerningGroup = A_Left;
 unicode = 00C5;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -3199,6 +3212,8 @@ name = "Light Aug 18 16, 17:57";
 width = 675;
 }
 );
+leftKerningGroup = A_Right;
+rightKerningGroup = A_Left;
 unicode = 00C3;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -4456,6 +4471,7 @@ width = 633;
 }
 );
 leftMetricsKey = N;
+rightKerningGroup = B_Left;
 unicode = 0042;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -4723,7 +4739,7 @@ transform = "{1, 0, 0, 1, 189, 170}";
 }
 );
 layerId = "98C086B7-81AA-4491-8494-0C6A76849168";
-width = 642;
+width = 632;
 },
 {
 components = (
@@ -4804,7 +4820,7 @@ transform = "{1, 0, 0, 1, 334, 0}";
 }
 );
 layerId = "98C086B7-81AA-4491-8494-0C6A76849168";
-width = 642;
+width = 632;
 },
 {
 components = (
@@ -5282,6 +5298,7 @@ name = "Bold Aug 19 16, 16:45";
 width = 750;
 }
 );
+leftKerningGroup = O_Right;
 leftMetricsKey = O;
 unicode = 0043;
 userData = {
@@ -5399,6 +5416,7 @@ name = "Light Aug 18 16, 17:57";
 width = 686;
 }
 );
+leftKerningGroup = O_Right;
 unicode = 0106;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -5515,6 +5533,7 @@ name = "Light Aug 18 16, 17:57";
 width = 686;
 }
 );
+leftKerningGroup = O_Right;
 unicode = 010C;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -5631,6 +5650,7 @@ name = "Light Aug 18 16, 17:57";
 width = 686;
 }
 );
+leftKerningGroup = O_Right;
 unicode = 00C7;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -5804,6 +5824,7 @@ name = "Light Aug 18 16, 17:57";
 width = 686;
 }
 );
+leftKerningGroup = O_Right;
 unicode = 0108;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -5920,6 +5941,7 @@ name = "Light Aug 18 16, 17:57";
 width = 686;
 }
 );
+leftKerningGroup = O_Right;
 unicode = 010A;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -6228,7 +6250,9 @@ nodes = (
 width = 698;
 }
 );
+leftKerningGroup = H_Right;
 leftMetricsKey = N;
+rightKerningGroup = O_Left;
 rightMetricsKey = O;
 unicode = 0044;
 userData = {
@@ -6644,6 +6668,7 @@ width = 698;
 }
 );
 leftMetricsKey = D;
+rightKerningGroup = O_Left;
 rightMetricsKey = D;
 unicode = 00D0;
 userData = {
@@ -6761,6 +6786,8 @@ name = "Light Aug 18 16, 17:57";
 width = 698;
 }
 );
+leftKerningGroup = H_Right;
+rightKerningGroup = O_Left;
 unicode = 010E;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -7633,6 +7660,7 @@ nodes = (
 width = 597;
 }
 );
+leftKerningGroup = H_Right;
 leftMetricsKey = N;
 unicode = 0045;
 userData = {
@@ -7750,6 +7778,7 @@ name = "Light Aug 18 16, 17:57";
 width = 597;
 }
 );
+leftKerningGroup = H_Right;
 unicode = 00C9;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -7960,6 +7989,7 @@ name = "Light Aug 18 16, 17:57";
 width = 597;
 }
 );
+leftKerningGroup = H_Right;
 unicode = 011A;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -8227,6 +8257,7 @@ name = "Light Aug 18 16, 17:57";
 width = 597;
 }
 );
+leftKerningGroup = H_Right;
 unicode = 00CA;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -8696,6 +8727,7 @@ name = "Light Aug 18 16, 17:57";
 width = 597;
 }
 );
+leftKerningGroup = H_Right;
 unicode = 00CB;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -8812,6 +8844,7 @@ name = "Light Aug 18 16, 17:57";
 width = 597;
 }
 );
+leftKerningGroup = H_Right;
 unicode = 0116;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -8973,6 +9006,7 @@ name = "Light Aug 18 16, 17:57";
 width = 597;
 }
 );
+leftKerningGroup = H_Right;
 unicode = 00C8;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -9250,6 +9284,7 @@ name = "Light Aug 18 16, 17:57";
 width = 597;
 }
 );
+leftKerningGroup = H_Right;
 unicode = 0112;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -9480,6 +9515,7 @@ name = "Light Aug 18 16, 17:57";
 width = 597;
 }
 );
+leftKerningGroup = H_Right;
 unicode = 0118;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -9893,6 +9929,7 @@ nodes = (
 width = 570;
 }
 );
+leftKerningGroup = H_Right;
 leftMetricsKey = N;
 unicode = 0046;
 userData = {
@@ -10680,6 +10717,7 @@ nodes = (
 width = 681;
 }
 );
+leftKerningGroup = O_Right;
 leftMetricsKey = O;
 unicode = 0047;
 userData = {
@@ -10913,6 +10951,7 @@ name = "Light Aug 18 16, 17:57";
 width = 681;
 }
 );
+leftKerningGroup = O_Right;
 unicode = 011E;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -11123,6 +11162,7 @@ name = "Light Aug 18 16, 17:57";
 width = 681;
 }
 );
+leftKerningGroup = O_Right;
 unicode = 011C;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -11239,6 +11279,7 @@ name = "Light Aug 18 16, 17:57";
 width = 681;
 }
 );
+leftKerningGroup = O_Right;
 unicode = 0122;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -11355,6 +11396,7 @@ name = "Light Aug 18 16, 17:57";
 width = 681;
 }
 );
+leftKerningGroup = O_Right;
 unicode = 0120;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -11732,6 +11774,8 @@ nodes = (
 width = 730;
 }
 );
+leftKerningGroup = H_Right;
+rightKerningGroup = H_Left;
 unicode = 0048;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -12252,6 +12296,8 @@ name = "Light Aug 18 16, 17:57";
 width = 730;
 }
 );
+leftKerningGroup = H_Right;
+rightKerningGroup = H_Left;
 unicode = 0124;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -14934,6 +14980,7 @@ nodes = (
 width = 636;
 }
 );
+leftKerningGroup = H_Right;
 leftMetricsKey = N;
 unicode = 004B;
 userData = {
@@ -15154,6 +15201,7 @@ name = "Light Aug 18 16, 17:57";
 width = 636;
 }
 );
+leftKerningGroup = H_Right;
 unicode = 0136;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -15438,6 +15486,7 @@ nodes = (
 width = 517;
 }
 );
+leftKerningGroup = H_Right;
 leftMetricsKey = N;
 unicode = 004C;
 userData = {
@@ -15671,6 +15720,7 @@ name = "Light Aug 18 16, 17:57";
 width = 517;
 }
 );
+leftKerningGroup = H_Right;
 unicode = 0139;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -15793,6 +15843,7 @@ name = "Light Aug 18 16, 17:57";
 width = 517;
 }
 );
+leftKerningGroup = H_Right;
 unicode = 013D;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -15956,6 +16007,7 @@ name = "Light Aug 18 16, 17:57";
 width = 517;
 }
 );
+leftKerningGroup = H_Right;
 unicode = 013B;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -16720,7 +16772,9 @@ nodes = (
 width = 790;
 }
 );
+leftKerningGroup = H_Right;
 leftMetricsKey = N;
+rightKerningGroup = H_Left;
 unicode = 004D;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -17189,6 +17243,8 @@ nodes = (
 width = 705;
 }
 );
+leftKerningGroup = H_Right;
+rightKerningGroup = H_Left;
 unicode = 004E;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -17421,6 +17477,8 @@ name = "Light Aug 18 16, 17:57";
 width = 705;
 }
 );
+leftKerningGroup = H_Right;
+rightKerningGroup = H_Left;
 unicode = 0143;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -17537,6 +17595,8 @@ name = "Light Aug 18 16, 17:57";
 width = 705;
 }
 );
+leftKerningGroup = H_Right;
+rightKerningGroup = H_Left;
 unicode = 0147;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -17700,6 +17760,8 @@ name = "Light Aug 18 16, 17:57";
 width = 705;
 }
 );
+leftKerningGroup = H_Right;
+rightKerningGroup = H_Left;
 unicode = 0145;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -18409,6 +18471,8 @@ name = "Light Aug 18 16, 17:57";
 width = 705;
 }
 );
+leftKerningGroup = H_Right;
+rightKerningGroup = H_Left;
 unicode = 00D1;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -18813,6 +18877,8 @@ nodes = (
 width = 710;
 }
 );
+leftKerningGroup = O_Right;
+rightKerningGroup = O_Left;
 unicode = 004F;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -18929,6 +18995,8 @@ name = "Light Aug 18 16, 17:57";
 width = 710;
 }
 );
+leftKerningGroup = O_Right;
+rightKerningGroup = O_Left;
 unicode = 00D3;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -19045,6 +19113,8 @@ name = "Light Aug 18 16, 17:57";
 width = 710;
 }
 );
+leftKerningGroup = O_Right;
+rightKerningGroup = O_Left;
 unicode = 014E;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -19255,6 +19325,8 @@ name = "Light Aug 18 16, 17:57";
 width = 710;
 }
 );
+leftKerningGroup = O_Right;
+rightKerningGroup = O_Left;
 unicode = 00D4;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -19724,6 +19796,8 @@ name = "Light Aug 18 16, 17:57";
 width = 710;
 }
 );
+leftKerningGroup = O_Right;
+rightKerningGroup = O_Left;
 unicode = 00D6;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -20095,6 +20169,8 @@ name = "Light Aug 18 16, 17:57";
 width = 710;
 }
 );
+leftKerningGroup = O_Right;
+rightKerningGroup = O_Left;
 unicode = 00D2;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -20735,6 +20811,8 @@ name = "Light Aug 18 16, 17:57";
 width = 710;
 }
 );
+leftKerningGroup = O_Right;
+rightKerningGroup = O_Left;
 unicode = 0150;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -20967,6 +21045,8 @@ name = "Light Aug 18 16, 17:57";
 width = 710;
 }
 );
+leftKerningGroup = O_Right;
+rightKerningGroup = O_Left;
 unicode = 014C;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -21341,7 +21421,9 @@ nodes = (
 width = 773;
 }
 );
+leftKerningGroup = O_Right;
 leftMetricsKey = O;
+rightKerningGroup = O_Left;
 rightMetricsKey = O;
 unicode = 00D8;
 userData = {
@@ -21553,6 +21635,8 @@ name = "Light Aug 18 16, 17:57";
 width = 710;
 }
 );
+leftKerningGroup = O_Right;
+rightKerningGroup = O_Left;
 unicode = 00D5;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -22064,6 +22148,7 @@ nodes = (
 width = 958;
 }
 );
+leftKerningGroup = O_Right;
 leftMetricsKey = O;
 rightMetricsKey = E;
 unicode = 0152;
@@ -22445,7 +22530,9 @@ nodes = (
 width = 593;
 }
 );
+leftKerningGroup = H_Right;
 leftMetricsKey = N;
+rightKerningGroup = P_Left;
 unicode = 0050;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -23133,6 +23220,7 @@ nodes = (
 width = 592;
 }
 );
+leftKerningGroup = H_Right;
 leftMetricsKey = N;
 unicode = 00DE;
 userData = {
@@ -23561,7 +23649,9 @@ nodes = (
 width = 752;
 }
 );
+leftKerningGroup = O_Right;
 leftMetricsKey = O;
+rightKerningGroup = O_Left;
 rightMetricsKey = O;
 unicode = 0051;
 userData = {
@@ -24023,7 +24113,9 @@ nodes = (
 width = 735;
 }
 );
+leftKerningGroup = H_Right;
 leftMetricsKey = N;
+rightKerningGroup = R_Left;
 unicode = 0052;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -24326,6 +24418,8 @@ name = "Light Aug 18 16, 17:57";
 width = 631;
 }
 );
+leftKerningGroup = H_Right;
+rightKerningGroup = R_Left;
 unicode = 0154;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -24442,6 +24536,8 @@ name = "Light Aug 18 16, 17:57";
 width = 631;
 }
 );
+leftKerningGroup = H_Right;
+rightKerningGroup = R_Left;
 unicode = 0158;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -24558,6 +24654,8 @@ name = "Light Aug 18 16, 17:57";
 width = 631;
 }
 );
+leftKerningGroup = H_Right;
+rightKerningGroup = R_Left;
 unicode = 0156;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -25525,6 +25623,8 @@ nodes = (
 width = 522;
 }
 );
+leftKerningGroup = S_Right;
+rightKerningGroup = S_Left;
 unicode = 0053;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -25897,6 +25997,8 @@ name = "Light Aug 18 16, 17:57";
 width = 553;
 }
 );
+leftKerningGroup = S_Right;
+rightKerningGroup = S_Left;
 unicode = 015A;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -26073,6 +26175,8 @@ name = "Light Aug 18 16, 17:57";
 width = 553;
 }
 );
+leftKerningGroup = S_Right;
+rightKerningGroup = S_Left;
 unicode = 0160;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -26247,6 +26351,8 @@ name = "Light Aug 18 16, 17:57";
 width = 553;
 }
 );
+leftKerningGroup = S_Right;
+rightKerningGroup = S_Left;
 unicode = 015E;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -27214,6 +27320,8 @@ nodes = (
 width = 560;
 }
 );
+leftKerningGroup = T_Right;
+rightKerningGroup = T_Left;
 unicode = 0054;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -27424,6 +27532,8 @@ name = "Light Aug 18 16, 17:57";
 width = 560;
 }
 );
+leftKerningGroup = T_Right;
+rightKerningGroup = T_Left;
 unicode = 0164;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -28199,7 +28309,9 @@ nodes = (
 width = 729;
 }
 );
+leftKerningGroup = U_Right;
 leftMetricsKey = H;
+rightKerningGroup = U_Left;
 unicode = 0055;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -28316,6 +28428,8 @@ name = "Light Aug 18 16, 17:57";
 width = 729;
 }
 );
+leftKerningGroup = U_Right;
+rightKerningGroup = U_Left;
 unicode = 00DA;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -28432,6 +28546,8 @@ name = "Light Aug 18 16, 17:57";
 width = 729;
 }
 );
+leftKerningGroup = U_Right;
+rightKerningGroup = U_Left;
 unicode = 016C;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -28642,6 +28758,8 @@ name = "Light Aug 18 16, 17:57";
 width = 729;
 }
 );
+leftKerningGroup = U_Right;
+rightKerningGroup = U_Left;
 unicode = 00DB;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -28874,6 +28992,8 @@ name = "Light Aug 18 16, 17:57";
 width = 729;
 }
 );
+leftKerningGroup = U_Right;
+rightKerningGroup = U_Left;
 unicode = 00DC;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -29266,6 +29386,8 @@ name = "Light Aug 18 16, 17:57";
 width = 729;
 }
 );
+leftKerningGroup = U_Right;
+rightKerningGroup = U_Left;
 unicode = 00D9;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -29811,6 +29933,8 @@ name = "Light Aug 18 16, 17:57";
 width = 729;
 }
 );
+leftKerningGroup = U_Right;
+rightKerningGroup = U_Left;
 unicode = 0170;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -30043,6 +30167,8 @@ name = "Light Aug 18 16, 17:57";
 width = 729;
 }
 );
+leftKerningGroup = U_Right;
+rightKerningGroup = U_Left;
 unicode = 016A;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -30216,6 +30342,8 @@ name = "Light Aug 18 16, 17:57";
 width = 729;
 }
 );
+leftKerningGroup = U_Right;
+rightKerningGroup = U_Left;
 unicode = 0172;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -30332,6 +30460,8 @@ name = "Light Aug 18 16, 17:57";
 width = 729;
 }
 );
+leftKerningGroup = U_Right;
+rightKerningGroup = U_Left;
 unicode = 016E;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -30448,6 +30578,8 @@ name = "Light Aug 18 16, 17:57";
 width = 729;
 }
 );
+leftKerningGroup = U_Right;
+rightKerningGroup = U_Left;
 unicode = 0168;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -30699,6 +30831,8 @@ nodes = (
 width = 606;
 }
 );
+leftKerningGroup = V_Right;
+rightKerningGroup = V_Left;
 unicode = 0056;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -30965,7 +31099,9 @@ nodes = (
 width = 953;
 }
 );
+leftKerningGroup = W_Right;
 leftMetricsKey = V;
+rightKerningGroup = W_Left;
 rightMetricsKey = V;
 unicode = 0057;
 userData = {
@@ -31828,6 +31964,7 @@ nodes = (
 width = 701;
 }
 );
+rightKerningGroup = X_Left;
 unicode = 0058;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -32106,6 +32243,8 @@ nodes = (
 width = 615;
 }
 );
+leftKerningGroup = Y_Right;
+rightKerningGroup = Y_Left;
 unicode = 0059;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -32222,6 +32361,8 @@ name = "Light Aug 18 16, 17:57";
 width = 615;
 }
 );
+leftKerningGroup = Y_Right;
+rightKerningGroup = Y_Left;
 unicode = 00DD;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -32432,6 +32573,8 @@ name = "Light Aug 18 16, 17:57";
 width = 615;
 }
 );
+leftKerningGroup = Y_Right;
+rightKerningGroup = Y_Left;
 unicode = 0178;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -34012,6 +34155,7 @@ nodes = (
 width = 463;
 }
 );
+leftKerningGroup = a_Right;
 unicode = 0061;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -34376,6 +34520,7 @@ name = "Light Aug 18 16, 17:57";
 width = 463;
 }
 );
+leftKerningGroup = a_Right;
 unicode = 00E1;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -34492,6 +34637,7 @@ name = "Light Aug 18 16, 17:57";
 width = 463;
 }
 );
+leftKerningGroup = a_Right;
 unicode = 0103;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -34951,6 +35097,7 @@ name = "Light Aug 18 16, 17:57";
 width = 463;
 }
 );
+leftKerningGroup = a_Right;
 unicode = 00E2;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -35420,6 +35567,7 @@ name = "Light Aug 18 16, 17:57";
 width = 463;
 }
 );
+leftKerningGroup = a_Right;
 unicode = 00E4;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -35732,6 +35880,7 @@ name = "Light Aug 18 16, 17:57";
 width = 463;
 }
 );
+leftKerningGroup = a_Right;
 unicode = 00E0;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -36012,6 +36161,7 @@ name = "Light Aug 18 16, 17:57";
 width = 463;
 }
 );
+leftKerningGroup = a_Right;
 unicode = 0101;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -36128,6 +36278,7 @@ name = "Light Aug 18 16, 17:57";
 width = 463;
 }
 );
+leftKerningGroup = a_Right;
 unicode = 0105;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -36244,6 +36395,7 @@ name = "Light Aug 18 16, 17:57";
 width = 463;
 }
 );
+leftKerningGroup = a_Right;
 unicode = 00E5;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -36466,6 +36618,7 @@ name = "Light Aug 18 16, 17:57";
 width = 463;
 }
 );
+leftKerningGroup = a_Right;
 unicode = 00E3;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -37446,6 +37599,7 @@ nodes = (
 width = 789;
 }
 );
+leftKerningGroup = a_Right;
 leftMetricsKey = a;
 rightMetricsKey = e;
 unicode = 00E6;
@@ -38029,6 +38183,7 @@ width = 509;
 }
 );
 leftMetricsKey = l;
+rightKerningGroup = o_Left;
 rightMetricsKey = "=o";
 unicode = 0062;
 userData = {
@@ -38546,6 +38701,7 @@ nodes = (
 width = 467;
 }
 );
+leftKerningGroup = o_Right;
 leftMetricsKey = o;
 unicode = 0063;
 userData = {
@@ -38825,6 +38981,7 @@ name = "Light Aug 18 16, 17:57";
 width = 467;
 }
 );
+leftKerningGroup = o_Right;
 unicode = 0107;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -38941,6 +39098,7 @@ name = "Light Aug 18 16, 17:57";
 width = 467;
 }
 );
+leftKerningGroup = o_Right;
 unicode = 010D;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -39057,6 +39215,7 @@ name = "Light Aug 18 16, 17:57";
 width = 467;
 }
 );
+leftKerningGroup = o_Right;
 unicode = 00E7;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -39230,6 +39389,7 @@ name = "Light Aug 18 16, 17:57";
 width = 467;
 }
 );
+leftKerningGroup = o_Right;
 unicode = 0109;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -39346,6 +39506,7 @@ name = "Light Aug 18 16, 17:57";
 width = 467;
 }
 );
+leftKerningGroup = o_Right;
 unicode = 010B;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -39792,6 +39953,7 @@ nodes = (
 width = 497;
 }
 );
+leftKerningGroup = o_Right;
 leftMetricsKey = "=o";
 rightMetricsKey = "=l";
 unicode = 0064;
@@ -40169,6 +40331,7 @@ nodes = (
 width = 439;
 }
 );
+leftKerningGroup = o_Right;
 leftMetricsKey = o;
 rightMetricsKey = o;
 unicode = 00F0;
@@ -40287,6 +40450,7 @@ name = "Light Aug 18 16, 17:57";
 width = 497;
 }
 );
+leftKerningGroup = o_Right;
 unicode = 010F;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -41498,6 +41662,7 @@ nodes = (
 width = 474;
 }
 );
+leftKerningGroup = o_Right;
 leftMetricsKey = o;
 unicode = 0065;
 userData = {
@@ -41769,6 +41934,7 @@ name = "Light Aug 18 16, 17:57";
 width = 474;
 }
 );
+leftKerningGroup = o_Right;
 unicode = 00E9;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -41979,6 +42145,7 @@ name = "Light Aug 18 16, 17:57";
 width = 474;
 }
 );
+leftKerningGroup = o_Right;
 unicode = 011B;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -42246,6 +42413,7 @@ name = "Light Aug 18 16, 17:57";
 width = 474;
 }
 );
+leftKerningGroup = o_Right;
 unicode = 00EA;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -42715,6 +42883,7 @@ name = "Light Aug 18 16, 17:57";
 width = 474;
 }
 );
+leftKerningGroup = o_Right;
 unicode = 00EB;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -42831,6 +43000,7 @@ name = "Light Aug 18 16, 17:57";
 width = 474;
 }
 );
+leftKerningGroup = o_Right;
 unicode = 0117;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -42992,6 +43162,7 @@ name = "Light Aug 18 16, 17:57";
 width = 474;
 }
 );
+leftKerningGroup = o_Right;
 unicode = 00E8;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -43272,6 +43443,7 @@ name = "Light Aug 18 16, 17:57";
 width = 474;
 }
 );
+leftKerningGroup = o_Right;
 leftMetricsKey = e;
 rightMetricsKey = e;
 unicode = 0113;
@@ -43504,6 +43676,7 @@ name = "Light Aug 18 16, 17:57";
 width = 474;
 }
 );
+leftKerningGroup = o_Right;
 unicode = 0119;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -45724,6 +45897,7 @@ width = 478;
 }
 );
 leftMetricsKey = l;
+rightKerningGroup = n_Left;
 rightMetricsKey = n;
 unicode = 0068;
 userData = {
@@ -45896,6 +46070,7 @@ width = 478;
 }
 );
 leftMetricsKey = h;
+rightKerningGroup = n_Left;
 rightMetricsKey = h;
 unicode = 0127;
 userData = {
@@ -46152,6 +46327,7 @@ name = "Light Aug 18 16, 17:57";
 width = 478;
 }
 );
+rightKerningGroup = n_Left;
 unicode = 0125;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -49517,6 +49693,7 @@ width = 478;
 }
 );
 leftMetricsKey = l;
+rightKerningGroup = k_Left;
 unicode = 006B;
 userData = {
 com.typemytype.robofont.guides = (
@@ -49737,6 +49914,7 @@ name = "Light Aug 18 16, 17:57";
 width = 478;
 }
 );
+rightKerningGroup = k_Left;
 unicode = 0137;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -50002,6 +50180,7 @@ width = 462;
 }
 );
 leftMetricsKey = i;
+rightKerningGroup = k_Left;
 rightMetricsKey = k;
 unicode = 0138;
 userData = {
@@ -51678,7 +51857,9 @@ nodes = (
 width = 791;
 }
 );
+leftKerningGroup = n_Right;
 leftMetricsKey = i;
+rightKerningGroup = n_Left;
 rightMetricsKey = n;
 unicode = 006D;
 userData = {
@@ -52269,7 +52450,9 @@ nodes = (
 width = 533;
 }
 );
+leftKerningGroup = n_Right;
 leftMetricsKey = i;
+rightKerningGroup = n_Left;
 unicode = 006E;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -52386,6 +52569,8 @@ name = "Light Aug 18 16, 17:57";
 width = 497;
 }
 );
+leftKerningGroup = n_Right;
+rightKerningGroup = n_Left;
 unicode = 0144;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -52598,6 +52783,8 @@ name = "Light Aug 18 16, 17:57";
 width = 497;
 }
 );
+leftKerningGroup = n_Right;
+rightKerningGroup = n_Left;
 unicode = 0148;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -52761,6 +52948,8 @@ name = "Light Aug 18 16, 17:57";
 width = 497;
 }
 );
+leftKerningGroup = n_Right;
+rightKerningGroup = n_Left;
 unicode = 0146;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -53545,6 +53734,8 @@ name = "Light Aug 18 16, 17:57";
 width = 497;
 }
 );
+leftKerningGroup = n_Right;
+rightKerningGroup = n_Left;
 unicode = 00F1;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -53943,6 +54134,8 @@ nodes = (
 width = 481;
 }
 );
+leftKerningGroup = o_Right;
+rightKerningGroup = o_Left;
 unicode = 006F;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -54059,6 +54252,8 @@ name = "Light Aug 18 16, 17:57";
 width = 481;
 }
 );
+leftKerningGroup = o_Right;
+rightKerningGroup = o_Left;
 unicode = 00F3;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -54175,6 +54370,8 @@ name = "Light Aug 18 16, 17:57";
 width = 481;
 }
 );
+leftKerningGroup = o_Right;
+rightKerningGroup = o_Left;
 unicode = 014F;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -54385,6 +54582,8 @@ name = "Light Aug 18 16, 17:57";
 width = 481;
 }
 );
+leftKerningGroup = o_Right;
+rightKerningGroup = o_Left;
 unicode = 00F4;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -54854,6 +55053,8 @@ name = "Light Aug 18 16, 17:57";
 width = 481;
 }
 );
+leftKerningGroup = o_Right;
+rightKerningGroup = o_Left;
 unicode = 00F6;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -55225,6 +55426,8 @@ name = "Light Aug 18 16, 17:57";
 width = 481;
 }
 );
+leftKerningGroup = o_Right;
+rightKerningGroup = o_Left;
 unicode = 00F2;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -55657,6 +55860,8 @@ name = "Light Aug 18 16, 17:57";
 width = 481;
 }
 );
+leftKerningGroup = o_Right;
+rightKerningGroup = o_Left;
 unicode = 0151;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -55889,6 +56094,8 @@ name = "Light Aug 18 16, 17:57";
 width = 481;
 }
 );
+leftKerningGroup = o_Right;
+rightKerningGroup = o_Left;
 unicode = 014D;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -56273,7 +56480,9 @@ nodes = (
 width = 497;
 }
 );
+leftKerningGroup = o_Right;
 leftMetricsKey = o;
+rightKerningGroup = o_Left;
 rightMetricsKey = o;
 unicode = 00F8;
 userData = {
@@ -56484,6 +56693,8 @@ name = "Light Aug 18 16, 17:57";
 width = 481;
 }
 );
+leftKerningGroup = o_Right;
+rightKerningGroup = o_Left;
 unicode = 00F5;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -57302,6 +57513,7 @@ nodes = (
 width = 955;
 }
 );
+leftKerningGroup = o_Right;
 leftMetricsKey = o;
 rightMetricsKey = e;
 unicode = 0153;
@@ -57691,6 +57903,7 @@ width = 507;
 }
 );
 leftMetricsKey = n;
+rightKerningGroup = o_Left;
 rightMetricsKey = "=o";
 unicode = 0070;
 userData = {
@@ -58191,6 +58404,7 @@ width = 608;
 }
 );
 leftMetricsKey = l;
+rightKerningGroup = o_Left;
 rightMetricsKey = p;
 unicode = 00FE;
 userData = {
@@ -58542,6 +58756,7 @@ nodes = (
 width = 515;
 }
 );
+leftKerningGroup = o_Right;
 leftMetricsKey = "=o";
 rightMetricsKey = i;
 unicode = 0071;
@@ -58877,6 +59092,7 @@ width = 378;
 }
 );
 leftMetricsKey = n;
+rightKerningGroup = r_Left;
 unicode = 0072;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -59073,6 +59289,7 @@ name = "Light Aug 18 16, 17:57";
 width = 378;
 }
 );
+rightKerningGroup = r_Left;
 unicode = 0155;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -59189,6 +59406,7 @@ name = "Light Aug 18 16, 17:57";
 width = 378;
 }
 );
+rightKerningGroup = r_Left;
 unicode = 0159;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -59305,6 +59523,7 @@ name = "Light Aug 18 16, 17:57";
 width = 378;
 }
 );
+rightKerningGroup = r_Left;
 unicode = 0157;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -61636,6 +61855,7 @@ nodes = (
 width = 282;
 }
 );
+rightKerningGroup = t_Left;
 unicode = 0074;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -61878,6 +62098,7 @@ name = "Light Aug 18 16, 17:57";
 width = 282;
 }
 );
+rightKerningGroup = t_Left;
 unicode = 0165;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -62708,6 +62929,7 @@ nodes = (
 width = 502;
 }
 );
+leftKerningGroup = u_Left;
 rightMetricsKey = i;
 unicode = 0075;
 userData = {
@@ -62825,6 +63047,7 @@ name = "Light Aug 18 16, 17:57";
 width = 502;
 }
 );
+leftKerningGroup = u_Left;
 unicode = 00FA;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -62941,6 +63164,7 @@ name = "Light Aug 18 16, 17:57";
 width = 502;
 }
 );
+leftKerningGroup = u_Left;
 unicode = 016D;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -63151,6 +63375,7 @@ name = "Light Aug 18 16, 17:57";
 width = 502;
 }
 );
+leftKerningGroup = u_Left;
 unicode = 00FB;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -63382,6 +63607,7 @@ name = "Light Aug 18 16, 17:57";
 width = 502;
 }
 );
+leftKerningGroup = u_Left;
 unicode = 00FC;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -63773,6 +63999,7 @@ name = "Light Aug 18 16, 17:57";
 width = 502;
 }
 );
+leftKerningGroup = u_Left;
 unicode = 00F9;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -64216,6 +64443,7 @@ name = "Light Aug 18 16, 17:57";
 width = 502;
 }
 );
+leftKerningGroup = u_Left;
 unicode = 0171;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -64448,6 +64676,7 @@ name = "Light Aug 18 16, 17:57";
 width = 502;
 }
 );
+leftKerningGroup = u_Left;
 unicode = 016B;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -64621,6 +64850,7 @@ name = "Light Aug 18 16, 17:57";
 width = 502;
 }
 );
+leftKerningGroup = u_Left;
 unicode = 0173;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -64737,6 +64967,7 @@ name = "Light Aug 18 16, 17:57";
 width = 502;
 }
 );
+leftKerningGroup = u_Left;
 unicode = 016F;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -64853,6 +65084,7 @@ name = "Light Aug 18 16, 17:57";
 width = 502;
 }
 );
+leftKerningGroup = u_Left;
 unicode = 0169;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -65104,6 +65336,8 @@ nodes = (
 width = 515;
 }
 );
+leftKerningGroup = v_Left;
+rightKerningGroup = v_Left;
 unicode = 0076;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -65394,6 +65628,8 @@ nodes = (
 width = 761;
 }
 );
+leftKerningGroup = w_Left;
+rightKerningGroup = w_Left;
 unicode = 0077;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -66516,7 +66752,9 @@ nodes = (
 width = 525;
 }
 );
+leftKerningGroup = y_Left;
 leftMetricsKey = v;
+rightKerningGroup = y_Left;
 unicode = 0079;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -66633,6 +66871,8 @@ name = "Light Aug 18 16, 17:57";
 width = 523;
 }
 );
+leftKerningGroup = y_Left;
+rightKerningGroup = y_Left;
 unicode = 00FD;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -66843,6 +67083,8 @@ name = "Light Aug 18 16, 17:57";
 width = 523;
 }
 );
+leftKerningGroup = y_Left;
+rightKerningGroup = y_Left;
 unicode = 00FF;
 userData = {
 com.typemytype.robofont.layerData = {
@@ -107792,6 +108034,7 @@ nodes = (
 hints = (
 {
 place = "{157, 4}";
+type = Stem;
 }
 );
 layerId = "EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE";
@@ -118923,68 +119166,582 @@ weightClass = Black;
 keepAlternatesTogether = 1;
 kerning = {
 "98C086B7-81AA-4491-8494-0C6A76849168" = {
+"@MMK_L_A_Left" = {
+"@MMK_R_O_Right" = -46;
+"@MMK_R_T_Right" = -53;
+"@MMK_R_U_Right" = -94;
+"@MMK_R_V_Right" = -186;
+"@MMK_R_W_Right" = -220;
+"@MMK_R_Y_Right" = -94;
+"@MMK_R_o_Right" = -14;
+"@MMK_R_u_Left" = -6;
+"@MMK_R_v_Left" = -74;
+"@MMK_R_w_Left" = -63;
+"@MMK_R_y_Left" = -83;
+quotedblright = -112;
+quoteright = -98;
+};
+"@MMK_L_B_Left" = {
+"@MMK_R_A_Right" = -21;
+"@MMK_R_y_Left" = -18;
+};
+"@MMK_L_O_Left" = {
+"@MMK_R_A_Right" = -45;
+"@MMK_R_U_Right" = -13;
+"@MMK_R_V_Right" = -71;
+"@MMK_R_W_Right" = -80;
+"@MMK_R_Y_Right" = -62;
+X = -56;
+comma = -56;
+period = -42;
+};
+"@MMK_L_P_Left" = {
+"@MMK_R_A_Right" = -140;
+"@MMK_R_W_Right" = -21;
+"@MMK_R_Y_Right" = -11;
+comma = -322;
+period = -294;
+};
+"@MMK_L_R_Left" = {
+"@MMK_R_O_Right" = -21;
+"@MMK_R_U_Right" = -43;
+"@MMK_R_V_Right" = -67;
+"@MMK_R_W_Right" = -53;
+"@MMK_R_Y_Right" = -45;
+"@MMK_R_u_Left" = -11;
+"@MMK_R_v_Left" = -24;
+"@MMK_R_w_Left" = -41;
+};
+"@MMK_L_S_Left" = {
+"@MMK_R_w_Left" = -38;
+};
+"@MMK_L_T_Left" = {
+"@MMK_R_A_Right" = -21;
+};
+"@MMK_L_U_Left" = {
+"@MMK_R_A_Right" = -50;
+};
+"@MMK_L_V_Left" = {
+"@MMK_R_A_Right" = -105;
+"@MMK_R_O_Right" = -14;
+"@MMK_R_a_Right" = -52;
+"@MMK_R_o_Right" = -25;
+"@MMK_R_u_Left" = -36;
+"@MMK_R_y_Left" = -77;
+comma = -168;
+g = -69;
+period = -112;
+s = -49;
+};
+"@MMK_L_W_Left" = {
+"@MMK_R_A_Right" = -157;
+"@MMK_R_O_Right" = -38;
+"@MMK_R_a_Right" = -73;
+"@MMK_R_n_Right" = -56;
+"@MMK_R_o_Right" = -118;
+"@MMK_R_u_Left" = -90;
+"@MMK_R_y_Left" = -74;
+comma = -210;
+g = -146;
+i = -29;
+s = -64;
+z = -106;
+};
+"@MMK_L_Y_Left" = {
+"@MMK_R_A_Right" = -118;
+"@MMK_R_O_Right" = -17;
+"@MMK_R_a_Right" = -118;
+"@MMK_R_o_Right" = -130;
+"@MMK_R_u_Left" = -31;
+"@MMK_R_v_Left" = -76;
+"@MMK_R_w_Left" = -48;
+"@MMK_R_y_Left" = -62;
+comma = -112;
+g = -63;
+p = -64;
+period = -84;
+r = -14;
+s = -45;
+x = -39;
+z = -59;
+};
+"@MMK_L_n_Left" = {
+"@MMK_R_u_Left" = -24;
+"@MMK_R_v_Left" = -45;
+"@MMK_R_y_Left" = -25;
+};
+"@MMK_L_o_Left" = {
+"@MMK_R_v_Left" = -41;
+"@MMK_R_w_Left" = -25;
+"@MMK_R_y_Left" = -49;
+b = -63;
+x = -49;
+};
+"@MMK_L_v_Left" = {
+"@MMK_R_a_Right" = -8;
+"@MMK_R_o_Right" = -10;
+comma = -42;
+period = -112;
+};
+"@MMK_L_w_Left" = {
+"@MMK_R_a_Right" = -27;
+"@MMK_R_o_Right" = -11;
+comma = -56;
+h = -50;
+period = -70;
+};
+C = {
+"@MMK_R_y_Left" = -18;
+};
 F = {
+"@MMK_R_A_Right" = -38;
 g = -0.97656;
 };
+G = {
+"@MMK_R_W_Right" = -18;
+"@MMK_R_Y_Right" = -17;
+};
+K = {
+"@MMK_R_A_Right" = -15;
+"@MMK_R_O_Right" = -48;
+"@MMK_R_S_Right" = -18;
+"@MMK_R_o_Right" = -22;
+"@MMK_R_u_Left" = -35;
+"@MMK_R_v_Left" = -64;
+"@MMK_R_w_Left" = -50;
+"@MMK_R_y_Left" = -50;
+};
 L = {
+"@MMK_R_T_Right" = -81;
+"@MMK_R_V_Right" = -99;
+"@MMK_R_W_Right" = -108;
+"@MMK_R_Y_Right" = -81;
+"@MMK_R_v_Left" = -20;
+"@MMK_R_w_Left" = -18;
+"@MMK_R_y_Left" = -21;
 quotedblright = -160.15601;
-quoteright = -123.04700;
+quoteright = -123.047;
+};
+a = {
+"@MMK_R_v_Left" = -22;
+"@MMK_R_w_Left" = -38;
+"@MMK_R_y_Left" = -28;
 };
 c = {
-h = -20.01950;
+h = -20.0195;
 k = -17.5781;
 };
 e = {
+"@MMK_R_v_Left" = -18;
+"@MMK_R_w_Left" = -46;
 x = -14.1602;
 };
 f = {
-quotedblright = 25.87890;
-quoteright = 20.01950;
+quotedblright = 25.8789;
+quoteright = 20.0195;
 };
 g = {
 g = -0.48828;
 };
+s = {
+"@MMK_R_w_Left" = -35;
+};
+x = {
+"@MMK_R_o_Right" = -10;
+};
 };
 "BE4F947C-73D7-4684-AEED-17801393DA53" = {
+"@MMK_L_A_Left" = {
+"@MMK_R_O_Right" = -45;
+"@MMK_R_T_Right" = -59;
+"@MMK_R_U_Right" = -101;
+"@MMK_R_V_Right" = -177;
+"@MMK_R_W_Right" = -197;
+"@MMK_R_Y_Right" = -103;
+"@MMK_R_o_Right" = -14;
+"@MMK_R_u_Left" = -20;
+"@MMK_R_v_Left" = -80;
+"@MMK_R_w_Left" = -60;
+"@MMK_R_y_Left" = -80;
+quotedblright = -108;
+quoteright = -95;
+};
+"@MMK_L_B_Left" = {
+"@MMK_R_A_Right" = -24;
+"@MMK_R_U_Right" = -13;
+"@MMK_R_y_Left" = -11;
+};
+"@MMK_L_H_Left" = {
+"@MMK_R_A_Right" = 0;
+comma = -15;
+period = -15;
+};
+"@MMK_L_O_Left" = {
+"@MMK_R_A_Right" = -56;
+"@MMK_R_T_Right" = -8;
+"@MMK_R_U_Right" = -18;
+"@MMK_R_V_Right" = -71;
+"@MMK_R_W_Right" = -67;
+"@MMK_R_Y_Right" = -65;
+X = -65;
+comma = -35;
+period = -26;
+};
+"@MMK_L_P_Left" = {
+"@MMK_R_A_Right" = -137;
+"@MMK_R_V_Right" = -5;
+"@MMK_R_W_Right" = -13;
+"@MMK_R_Y_Right" = -7;
+"@MMK_R_a_Right" = -5;
+"@MMK_R_o_Right" = -6;
+comma = -306;
+period = -308;
+s = -13;
+};
+"@MMK_L_R_Left" = {
+"@MMK_R_O_Right" = -32;
+"@MMK_R_T_Right" = -15;
+"@MMK_R_U_Right" = -51;
+"@MMK_R_V_Right" = -79;
+"@MMK_R_W_Right" = -67;
+"@MMK_R_Y_Right" = -47;
+"@MMK_R_u_Left" = -7;
+"@MMK_R_v_Left" = -29;
+"@MMK_R_w_Left" = -40;
+};
+"@MMK_L_S_Left" = {
+"@MMK_R_w_Left" = -24;
+};
+"@MMK_L_T_Left" = {
+"@MMK_R_A_Right" = -32;
+"@MMK_R_a_Right" = -5;
+};
+"@MMK_L_U_Left" = {
+"@MMK_R_A_Right" = -67;
+};
+"@MMK_L_V_Left" = {
+"@MMK_R_A_Right" = -122;
+"@MMK_R_O_Right" = -28;
+"@MMK_R_a_Right" = -65;
+"@MMK_R_o_Right" = -57;
+"@MMK_R_u_Left" = -36;
+"@MMK_R_y_Left" = -48;
+comma = -206;
+g = -93;
+period = -175;
+s = -66;
+};
+"@MMK_L_W_Left" = {
+"@MMK_R_A_Right" = -151;
+"@MMK_R_O_Right" = -45;
+"@MMK_R_a_Right" = -74;
+"@MMK_R_n_Right" = -35;
+"@MMK_R_o_Right" = -101;
+"@MMK_R_u_Left" = -56;
+"@MMK_R_y_Left" = -46;
+comma = -131;
+g = -125;
+i = -18;
+s = -40;
+z = -66;
+};
+"@MMK_L_Y_Left" = {
+"@MMK_R_A_Right" = -116;
+"@MMK_R_O_Right" = -25;
+"@MMK_R_a_Right" = -102;
+"@MMK_R_n_Right" = -15;
+"@MMK_R_o_Right" = -127;
+"@MMK_R_u_Left" = -19;
+"@MMK_R_v_Left" = -48;
+"@MMK_R_w_Left" = -30;
+"@MMK_R_y_Left" = -39;
+comma = -149;
+g = -86;
+p = -40;
+period = -154;
+r = -9;
+s = -60;
+x = -24;
+z = -37;
+};
+"@MMK_L_k_Left" = {
+"@MMK_R_o_Right" = -7;
+};
+"@MMK_L_n_Left" = {
+"@MMK_R_u_Left" = -15;
+"@MMK_R_v_Left" = -28;
+"@MMK_R_y_Left" = -16;
+};
+"@MMK_L_o_Left" = {
+"@MMK_R_u_Left" = -8;
+"@MMK_R_v_Left" = -26;
+"@MMK_R_w_Left" = -16;
+"@MMK_R_y_Left" = -31;
+b = -51;
+comma = -38;
+x = -31;
+};
+"@MMK_L_r_Left" = {
+"@MMK_R_o_Right" = -8;
+g = -9;
+};
+"@MMK_L_v_Left" = {
+"@MMK_R_a_Right" = -8;
+"@MMK_R_o_Right" = -6;
+comma = -94;
+period = -70;
+};
+"@MMK_L_w_Left" = {
+"@MMK_R_a_Right" = -17;
+"@MMK_R_o_Right" = -7;
+comma = -95;
+h = -37;
+period = -111;
+};
+"@MMK_L_y_Left" = {
+"@MMK_R_a_Right" = -1;
+period = -83;
+};
+C = {
+"@MMK_R_y_Left" = -11;
+};
 F = {
-g = -7.32422;
+"@MMK_R_A_Right" = -77;
+"@MMK_R_a_Right" = -12;
+"@MMK_R_o_Right" = -28;
+g = -3;
+};
+G = {
+"@MMK_R_A_Right" = -35;
+"@MMK_R_W_Right" = -11;
+"@MMK_R_Y_Right" = -16;
+};
+K = {
+"@MMK_R_A_Right" = -9;
+"@MMK_R_O_Right" = -54;
+"@MMK_R_S_Right" = -11;
+"@MMK_R_a_Right" = -2;
+"@MMK_R_o_Right" = -14;
+"@MMK_R_u_Left" = -32;
+"@MMK_R_v_Left" = -68;
+"@MMK_R_w_Left" = -50;
+"@MMK_R_y_Left" = -31;
 };
 L = {
-quotedblright = -95.70310;
-quoteright = -83.49610;
+"@MMK_R_O_Right" = 0;
+"@MMK_R_T_Right" = -73;
+"@MMK_R_U_Right" = -20;
+"@MMK_R_V_Right" = -104;
+"@MMK_R_W_Right" = -103;
+"@MMK_R_Y_Right" = -83;
+"@MMK_R_v_Left" = -13;
+"@MMK_R_w_Left" = -11;
+"@MMK_R_y_Left" = -13;
+quotedblright = -164;
+quoteright = -126;
+};
+a = {
+"@MMK_R_v_Left" = -39;
+"@MMK_R_w_Left" = -37;
+"@MMK_R_y_Left" = -28;
 };
 c = {
-k = -10.7422;
+h = -20;
+k = -18;
+};
+d = {
+"@MMK_R_o_Right" = -9;
+"@MMK_R_v_Left" = -4;
+"@MMK_R_w_Left" = -2;
 };
 e = {
-x = -8.30078;
+"@MMK_R_v_Left" = -14;
+"@MMK_R_w_Left" = -31;
+"@MMK_R_y_Left" = -5;
+x = -15;
 };
 f = {
-quotedblright = 18.55470;
-quoteright = 16.60160;
+"@MMK_R_a_Right" = -3;
+"@MMK_R_o_Right" = -8;
+quotedblright = 26;
+quoteright = 20;
 };
 g = {
-g = -4.39453;
+g = -2;
+};
+s = {
+"@MMK_R_w_Left" = -22;
+};
+x = {
+"@MMK_R_o_Right" = -6;
 };
 };
 "EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE" = {
+"@MMK_L_A_Left" = {
+"@MMK_R_O_Right" = -42;
+"@MMK_R_T_Right" = -69;
+"@MMK_R_U_Right" = -113;
+"@MMK_R_V_Right" = -162;
+"@MMK_R_W_Right" = -159;
+"@MMK_R_Y_Right" = -118;
+"@MMK_R_o_Right" = -14;
+"@MMK_R_u_Left" = -42;
+"@MMK_R_v_Left" = -91;
+"@MMK_R_w_Left" = -55;
+"@MMK_R_y_Left" = -74;
+quotedblright = -100;
+quoteright = -90;
+};
+"@MMK_L_B_Left" = {
+"@MMK_R_A_Right" = -28;
+"@MMK_R_U_Right" = -34;
+};
+"@MMK_L_H_Left" = {
+"@MMK_R_A_Right" = 0;
+comma = -40;
+period = -40;
+};
+"@MMK_L_O_Left" = {
+"@MMK_R_A_Right" = -73;
+"@MMK_R_T_Right" = -22;
+"@MMK_R_U_Right" = -25;
+"@MMK_R_V_Right" = -70;
+"@MMK_R_W_Right" = -45;
+"@MMK_R_Y_Right" = -70;
+X = -79;
+};
+"@MMK_L_P_Left" = {
+"@MMK_R_A_Right" = -131;
+"@MMK_R_V_Right" = -14;
+"@MMK_R_a_Right" = -13;
+"@MMK_R_o_Right" = -17;
+comma = -280;
+period = -330;
+s = -34;
+};
+"@MMK_L_R_Left" = {
+"@MMK_R_O_Right" = -50;
+"@MMK_R_T_Right" = -39;
+"@MMK_R_U_Right" = -63;
+"@MMK_R_V_Right" = -99;
+"@MMK_R_W_Right" = -90;
+"@MMK_R_Y_Right" = -50;
+"@MMK_R_v_Left" = -38;
+"@MMK_R_w_Left" = -38;
+};
+"@MMK_L_T_Left" = {
+"@MMK_R_A_Right" = -50;
+"@MMK_R_a_Right" = -13;
+};
+"@MMK_L_U_Left" = {
+"@MMK_R_A_Right" = -96;
+};
+"@MMK_L_V_Left" = {
+"@MMK_R_A_Right" = -151;
+"@MMK_R_O_Right" = -51;
+"@MMK_R_a_Right" = -87;
+"@MMK_R_o_Right" = -110;
+"@MMK_R_u_Left" = -36;
+comma = -270;
+g = -132;
+period = -280;
+s = -94;
+};
+"@MMK_L_W_Left" = {
+"@MMK_R_A_Right" = -141;
+"@MMK_R_O_Right" = -56;
+"@MMK_R_a_Right" = -75;
+"@MMK_R_o_Right" = -73;
+g = -90;
+};
+"@MMK_L_Y_Left" = {
+"@MMK_R_A_Right" = -112;
+"@MMK_R_O_Right" = -37;
+"@MMK_R_a_Right" = -74;
+"@MMK_R_n_Right" = -41;
+"@MMK_R_o_Right" = -122;
+comma = -210;
+g = -123;
+period = -270;
+s = -85;
+};
+"@MMK_L_k_Left" = {
+"@MMK_R_o_Right" = -18;
+};
+"@MMK_L_o_Left" = {
+"@MMK_R_u_Left" = -20;
+b = -31;
+comma = -100;
+};
+"@MMK_L_r_Left" = {
+"@MMK_R_o_Right" = -22;
+g = -24;
+};
+"@MMK_L_v_Left" = {
+"@MMK_R_a_Right" = -9;
+comma = -180;
+};
+"@MMK_L_w_Left" = {
+comma = -160;
+h = -14;
+period = -180;
+};
+"@MMK_L_y_Left" = {
+"@MMK_R_a_Right" = -3;
+period = -220;
+};
 F = {
+"@MMK_R_A_Right" = -142;
+"@MMK_R_a_Right" = -33;
+"@MMK_R_o_Right" = -75;
 g = -7.32422;
 };
+G = {
+"@MMK_R_A_Right" = -92;
+"@MMK_R_Y_Right" = -15;
+};
+K = {
+"@MMK_R_O_Right" = -65;
+"@MMK_R_a_Right" = -6;
+"@MMK_R_u_Left" = -26;
+"@MMK_R_v_Left" = -74;
+"@MMK_R_w_Left" = -49;
+};
 L = {
+"@MMK_R_O_Right" = 0;
+"@MMK_R_T_Right" = -59;
+"@MMK_R_U_Right" = -53;
+"@MMK_R_V_Right" = -112;
+"@MMK_R_W_Right" = -94;
+"@MMK_R_Y_Right" = -85;
 quotedblright = -170.89799;
-quoteright = -129.88300;
+quoteright = -129.883;
+};
+a = {
+"@MMK_R_v_Left" = -68;
+"@MMK_R_w_Left" = -36;
+"@MMK_R_y_Left" = -28;
 };
 c = {
-h = -20.99610;
-k = -18.55470;
+h = -20.9961;
+k = -18.5547;
+};
+d = {
+"@MMK_R_o_Right" = -24;
+"@MMK_R_v_Left" = -10;
+"@MMK_R_w_Left" = -5;
 };
 e = {
+"@MMK_R_v_Left" = -7;
+"@MMK_R_w_Left" = -7;
+"@MMK_R_y_Left" = -14;
 x = -15.1367;
 };
 f = {
+"@MMK_R_a_Right" = -7;
+"@MMK_R_o_Right" = -20;
 quotedblright = 27.3438;
-quoteright = 20.50780;
+quoteright = 20.5078;
 };
 g = {
 g = -4.39453;
@@ -119047,7 +119804,7 @@ com.typemytype.robofont.b.layerStrokeColor = (
 1,
 0.75,
 0,
-0.70000
+0.7
 );
 com.typemytype.robofont.compileSettings.MacRomanFirst = 1;
 com.typemytype.robofont.compileSettings.autohint = 0;
@@ -119060,7 +119817,7 @@ com.typemytype.robofont.foreground.layerStrokeColor = (
 0.5,
 0,
 0.5,
-0.70000
+0.7
 );
 com.typemytype.robofont.italicSlantOffset = 0;
 com.typemytype.robofont.layerOrder = (
